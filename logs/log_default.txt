@@ -1,0 +1,44 @@
+Tic-tac-toe Game (Version: 0.4.<NGUYENTHAOLY_25022931> by baluong.87)
+------------------------------------------------
+[INFO] - [2026-05-24 12:16:18] Logger initialized!
+[INFO] - [2026-05-24 12:16:18] Terminal Renderer initialized!
+[INFO] - [2026-05-24 12:16:18] Terminal Interaction initialized!
+[INFO] - [2026-05-24 12:16:18] Infra initialized!
+[INFO] - [2026-05-24 12:16:18] Engine initializing . . .
+[INFO] - [2026-05-24 12:16:18] Engine initialized!
+[INFO] - [2026-05-24 12:16:18] [Engine] Starting game . . .
+[INFO] - [2026-05-24 12:16:21] user input 'size' = 5
+[INFO] - [2026-05-24 12:16:22] user input 'goal' = 3
+[INFO] - [2026-05-24 12:16:24] user input 'game mode' = EVE
+[INFO] - [2026-05-24 12:16:26] Board initialized!
+[INFO] - [2026-05-24 12:16:26] [Engine] Game started!
+[INFO] - [2026-05-24 12:16:26] [Engine] Playing game . . .
+[INFO] - [2026-05-24 12:16:26] [Engine] starting turn #0
+[INFO] - [2026-05-24 12:16:26] player 1 make move to (2, 2)
+[INFO] - [2026-05-24 12:16:28] [Engine] starting turn #1
+[INFO] - [2026-05-24 12:16:28] player 2 make move to (1, 2)
+[INFO] - [2026-05-24 12:16:29] [Engine] starting turn #2
+[INFO] - [2026-05-24 12:16:29] player 1 make move to (1, 4)
+[INFO] - [2026-05-24 12:16:31] [Engine] starting turn #3
+[INFO] - [2026-05-24 12:16:31] player 2 make move to (2, 4)
+[INFO] - [2026-05-24 12:16:33] [Engine] starting turn #4
+[INFO] - [2026-05-24 12:16:33] player 1 make move to (3, 1)
+[INFO] - [2026-05-24 12:16:34] [Engine] starting turn #5
+[INFO] - [2026-05-24 12:16:34] player 2 make move to (1, 3)
+[INFO] - [2026-05-24 12:16:36] [Engine] starting turn #6
+[INFO] - [2026-05-24 12:16:36] player 1 make move to (0, 2)
+[INFO] - [2026-05-24 12:16:37] [Engine] starting turn #7
+[INFO] - [2026-05-24 12:16:37] player 2 make move to (3, 3)
+[INFO] - [2026-05-24 12:16:39] [Engine] starting turn #8
+[INFO] - [2026-05-24 12:16:39] player 1 make move to (2, 3)
+[INFO] - [2026-05-24 12:16:40] [Engine] starting turn #9
+[INFO] - [2026-05-24 12:16:40] player 2 make move to (4, 2)
+[INFO] - [2026-05-24 12:16:42] [Engine] Game done!
+[INFO] - [2026-05-24 12:16:42] [Engine] Ending game . . .
+[INFO] - [2026-05-24 12:16:46] game end with result: player 2 (bot) win!
+[INFO] - [2026-05-24 12:16:46] [Engine] Game ended!
+[INFO] - [2026-05-24 12:16:46] Engine closing . . .
+[INFO] - [2026-05-24 12:16:46] Engine closed!
+[INFO] - [2026-05-24 12:16:46] Engine destroyed!
+[INFO] - [2026-05-24 12:16:46] Infra destroyed!
+[INFO] - [2026-05-24 12:16:46] Logger closing . . .
